@@ -1,0 +1,190 @@
+[
+  {
+    "key": "site",
+    "title": "厂区平面图",
+    "images": [
+      {
+        "src": "/media/site-01.jpg",
+        "preview": "/media/site-01-preview.webp",
+        "title": "厂区平面图 01",
+        "width": 3300,
+        "height": 2550,
+        "small": "/media/site-01-small.webp",
+        "medium": "/media/site-01-medium.webp",
+        "detail": "/media/site-01-detail.webp"
+      }
+    ]
+  },
+  {
+    "key": "workshop",
+    "title": "车间平立面图",
+    "images": [
+      {
+        "src": "/media/workshop-01.jpg",
+        "preview": "/media/workshop-01-preview.webp",
+        "title": "车间平立面图 01",
+        "width": 9934,
+        "height": 7017,
+        "small": "/media/workshop-01-small.webp",
+        "medium": "/media/workshop-01-medium.webp",
+        "detail": "/media/workshop-01-detail.webp"
+      },
+      {
+        "src": "/media/workshop-02.jpg",
+        "preview": "/media/workshop-02-preview.webp",
+        "title": "车间平立面图 02",
+        "width": 9934,
+        "height": 7017,
+        "small": "/media/workshop-02-small.webp",
+        "medium": "/media/workshop-02-medium.webp",
+        "detail": "/media/workshop-02-detail.webp"
+      },
+      {
+        "src": "/media/workshop-03.jpg",
+        "preview": "/media/workshop-03-preview.webp",
+        "title": "车间平立面图 03",
+        "width": 9934,
+        "height": 7017,
+        "small": "/media/workshop-03-small.webp",
+        "medium": "/media/workshop-03-medium.webp",
+        "detail": "/media/workshop-03-detail.webp"
+      },
+      {
+        "src": "/media/workshop-04.jpg",
+        "preview": "/media/workshop-04-preview.webp",
+        "title": "车间平立面图 04",
+        "width": 9934,
+        "height": 7017,
+        "small": "/media/workshop-04-small.webp",
+        "medium": "/media/workshop-04-medium.webp",
+        "detail": "/media/workshop-04-detail.webp"
+      },
+      {
+        "src": "/media/workshop-05.jpg",
+        "preview": "/media/workshop-05-preview.webp",
+        "title": "车间平立面图 05",
+        "width": 9934,
+        "height": 7017,
+        "small": "/media/workshop-05-small.webp",
+        "medium": "/media/workshop-05-medium.webp",
+        "detail": "/media/workshop-05-detail.webp"
+      },
+      {
+        "src": "/media/workshop-06.jpg",
+        "preview": "/media/workshop-06-preview.webp",
+        "title": "车间平立面图 06",
+        "width": 9934,
+        "height": 7017,
+        "small": "/media/workshop-06-small.webp",
+        "medium": "/media/workshop-06-medium.webp",
+        "detail": "/media/workshop-06-detail.webp"
+      }
+    ]
+  },
+  {
+    "key": "model",
+    "title": "设备与管道建模",
+    "images": [
+      {
+        "src": "/media/model-01.jpg",
+        "preview": "/media/model-01-preview.webp",
+        "title": "设备与管道建模 01",
+        "width": 9934,
+        "height": 7017,
+        "small": "/media/model-01-small.webp",
+        "medium": "/media/model-01-medium.webp",
+        "detail": "/media/model-01-detail.webp"
+      },
+      {
+        "src": "/media/model-02.jpg",
+        "preview": "/media/model-02-preview.webp",
+        "title": "设备与管道建模 02",
+        "width": 9934,
+        "height": 7017,
+        "small": "/media/model-02-small.webp",
+        "medium": "/media/model-02-medium.webp",
+        "detail": "/media/model-02-detail.webp"
+      },
+      {
+        "src": "/media/model-03.jpg",
+        "preview": "/media/model-03-preview.webp",
+        "title": "设备与管道建模 03",
+        "width": 9934,
+        "height": 7017,
+        "small": "/media/model-03-small.webp",
+        "medium": "/media/model-03-medium.webp",
+        "detail": "/media/model-03-detail.webp"
+      },
+      {
+        "src": "/media/model-04.jpg",
+        "preview": "/media/model-04-preview.webp",
+        "title": "设备与管道建模 04",
+        "width": 9934,
+        "height": 7017,
+        "small": "/media/model-04-small.webp",
+        "medium": "/media/model-04-medium.webp",
+        "detail": "/media/model-04-detail.webp"
+      },
+      {
+        "src": "/media/model-05.jpg",
+        "preview": "/media/model-05-preview.webp",
+        "title": "设备与管道建模 05",
+        "width": 9934,
+        "height": 7017,
+        "small": "/media/model-05-small.webp",
+        "medium": "/media/model-05-medium.webp",
+        "detail": "/media/model-05-detail.webp"
+      },
+      {
+        "src": "/media/model-06.jpg",
+        "preview": "/media/model-06-preview.webp",
+        "title": "设备与管道建模 06",
+        "width": 9934,
+        "height": 7017,
+        "small": "/media/model-06-small.webp",
+        "medium": "/media/model-06-medium.webp",
+        "detail": "/media/model-06-detail.webp"
+      },
+      {
+        "src": "/media/model-07.jpg",
+        "preview": "/media/model-07-preview.webp",
+        "title": "设备与管道建模 07",
+        "width": 9934,
+        "height": 7017,
+        "small": "/media/model-07-small.webp",
+        "medium": "/media/model-07-medium.webp",
+        "detail": "/media/model-07-detail.webp"
+      },
+      {
+        "src": "/media/model-08.jpg",
+        "preview": "/media/model-08-preview.webp",
+        "title": "设备与管道建模 08",
+        "width": 9934,
+        "height": 7017,
+        "small": "/media/model-08-small.webp",
+        "medium": "/media/model-08-medium.webp",
+        "detail": "/media/model-08-detail.webp"
+      },
+      {
+        "src": "/media/model-09.jpg",
+        "preview": "/media/model-09-preview.webp",
+        "title": "设备与管道建模 09",
+        "width": 9934,
+        "height": 7017,
+        "small": "/media/model-09-small.webp",
+        "medium": "/media/model-09-medium.webp",
+        "detail": "/media/model-09-detail.webp"
+      },
+      {
+        "src": "/media/model-10.jpg",
+        "preview": "/media/model-10-preview.webp",
+        "title": "设备与管道建模 10",
+        "width": 9934,
+        "height": 7017,
+        "small": "/media/model-10-small.webp",
+        "medium": "/media/model-10-medium.webp",
+        "detail": "/media/model-10-detail.webp"
+      }
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+html.is-opening{overflow:hidden}
+.opening{display:none;position:fixed;inset:0;z-index:100;background:#eae4d7;color:#59634c;flex-direction:column;justify-content:center;overflow:hidden}
+.opening-top{position:absolute;left:5%;right:5%;top:36px;display:flex;justify-content:space-between;font:10px monospace;letter-spacing:2px}
+.opening-center{width:90%;margin:0 auto;text-align:center}.opening-word{display:flex;justify-content:center;overflow:hidden;font:500 clamp(120px,29vw,460px)/1 Arial,sans-serif;letter-spacing:-.08em;padding-right:.08em}
+.opening-word span{display:block}.opening-meta{font:14px/2 'Noto Serif SC','SimSun',serif;letter-spacing:6px;margin-top:30px}
+.opening-rule{position:absolute;bottom:65px;left:5%;width:76%;height:1px;background:#bec2ae}.opening-rule i{display:block;width:100%;height:100%;background:#9f7654;transform-origin:left}
+.opening-skip{position:absolute;right:5%;bottom:52px;background:none;border:0;font-size:11px;color:#7c806e;padding:8px 0}
+.hero-title-line{display:block;overflow:hidden;padding-bottom:.07em;margin-bottom:-.07em}.hero-title-line>span{display:block;will-change:auto}
+.motion-heading{overflow:hidden;margin:35px 0 45px;line-height:.94;pointer-events:none;user-select:none}
+.motion-heading>span{display:block;font-family:Arial,sans-serif;font-size:clamp(70px,10.6vw,175px);font-weight:500;letter-spacing:-.075em;color:#929c7c;transform-origin:left bottom;white-space:nowrap}
+.projects .motion-heading>span{color:#b29372}.skills .motion-heading>span{color:#9c9d7d}.contact .motion-heading>span{color:#8e9a74}
+.motion-heading+.about-grid{margin-top:30px}.motion-heading+.section-heading{margin-top:15px}.contact .motion-heading{margin-bottom:10px}
+@media(max-width:700px){.motion-heading{margin:30px 0}.motion-heading>span{font-size:clamp(50px,12.3vw,85px)}.opening-top{font-size:8px;letter-spacing:.6px}.opening-meta{font-size:11px;letter-spacing:3px}.opening-rule{width:66%}.opening-word{font-size:40vw}.hero-title-line>span{will-change:auto}}
+@media(prefers-reduced-motion:reduce){.opening{display:none!important}.hero-title-line>span{will-change:auto}}
+@media(max-width:700px){.projects .motion-heading>span,.skills .motion-heading>span{font-size:clamp(32px,10.2vw,70px)}}
